@@ -1,6 +1,5 @@
 # Welcome page, Login Page and Sign up page - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/ExKYjqgswJg)
 
 **Packages we are using:**
 
@@ -11,3 +10,5 @@ We design 3 screens first one is a welcome screen like then user open your app i
 ### Auth UI
 
 ![App UI](/UI.png)
+
+Change your firebase setting from Web/Index.html & main.dart file for firebase initialization.
