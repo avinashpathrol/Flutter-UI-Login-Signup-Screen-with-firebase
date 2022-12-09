@@ -12,10 +12,10 @@ void configureApp() {
 Future<void> main() async {
   await Firebase.initializeApp(
       options: FirebaseOptions(
-          apiKey: 'AIzaSyB5kxQBd5lKLHsl3u87SU0NKmrrIR5YL-g',
-          appId: '1:990123833536:web:31fa4707c3f525391a1525',
-          messagingSenderId: '990123833536',
-          projectId: 'eagreeapp'));
+          apiKey: '*******************',
+          appId: '*******************',
+          messagingSenderId: '*******************',
+          projectId: '*******************'));
   configureApp();
   runApp(MyApp());
 }
